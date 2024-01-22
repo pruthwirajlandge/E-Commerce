@@ -1,0 +1,29 @@
+@media screen and (max-width:1000px) {
+
+    nav {
+        flex-direction: column;
+    }
+
+    .logo {
+        justify-content: center;
+        margin: 12px 0;
+    }
+    .raj{
+        height: 23vh;
+    }
+    nav ul{
+        justify-content: center;
+    }
+    .search{
+        justify-content: center;
+    }
+    .search input{
+        margin: 12px 16px;
+    }
+    nav ul {
+        height: 42px;
+    }
+    .raj img{
+        margin: 12px 160px;
+    }
+}
